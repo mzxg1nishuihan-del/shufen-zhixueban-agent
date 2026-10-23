@@ -6,8 +6,11 @@
 
 ## 在线访问
 
-- GitHub Pages：`https://<你的用户名>.github.io/shufen-zhixueban-agent/`（创建仓库并启用 Pages 后生效）
-- 智能体原站：https://shufen-zhixueban-agent.jauntyotter128.chatgpt.site
+- **GitHub Pages（公开直链）**：https://mzxg1nishuihan-del.github.io/shufen-zhixueban-agent/
+- 智能体原站（后端）：https://shufen-zhixueban-agent.jauntyotter128.chatgpt.site
+- 源码仓库：https://github.com/mzxg1nishuihan-del/shufen-zhixueban-agent
+
+> 打开即用、无需登录。前端为静态页面，聊天由原站 Worker 的 `/api/chat` 提供（跨域已实测可用）。
 
 ## 功能
 
